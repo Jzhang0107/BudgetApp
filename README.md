@@ -1,2 +1,2 @@
 # BudgetApp
-SLightly more complex react app than indecision to practice
+Slightly more complex react app than indecision to practice
