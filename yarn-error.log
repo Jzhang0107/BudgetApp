@@ -23,7 +23,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "Indecision",
+    "name": "BudgetApp",
     "version": "1.0.0",
     "main": "index.js",
     "repository": "https://github.com/Jzhang0107/BudgetApp.git",
